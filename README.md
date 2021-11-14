@@ -9,4 +9,4 @@
 8) Все файлы, имена которых заканчиваются на "_override.tf"
 9) Все файлы, имена которых заканчиваются на "_override.tf.json"
 10) Все файлы с именем ".terraformrc"
-11) Все файлы с именем "terraform.rc"
+11) Все файлы с именем "terraform.rc"New line for FIX
